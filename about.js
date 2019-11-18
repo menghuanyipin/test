@@ -1,3 +1,4 @@
 function About(){
-  return <div>关于</div>
+  let title = "关于页面"
+  return <div>{title}</div>
 }
